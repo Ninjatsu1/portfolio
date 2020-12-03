@@ -1,3 +1,10 @@
 .normal {
     text-align: left;
 }
+.boldText {
+    text-align: left;
+    font-weight: bold;
+}
+.bg-primary {
+    background-color: #7d6fab!important
+}
